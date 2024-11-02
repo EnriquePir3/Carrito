@@ -1,0 +1,24 @@
+.container{
+    background-color: rgb(212, 226, 226);
+}
+
+img {
+    width: 20px;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.btn-dark:hover{
+    transition: 0.5s;
+    padding: 5%;
+
+}
+
+tfoot{
+    background-color: rgb(240, 164, 164);
+}

@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 500,
+      "id": 1,
+      "title": "Café",
+      "thumbnailUrl": "https://img.freepik.com/foto-gratis/taza-cafe-negro-sobre-tabla-madera_23-2148623253.jpg?t=st=1730510318~exp=1730513918~hmac=cfc6f666f96e2c33fc2de1557d6d2462b238da935e3b2230fa19623d0ebcc51f&w=740"
+    },
+    {
+      "precio": 300,
+      "id": 2,
+      "title": "Pizza",
+      "thumbnailUrl": "https://img.freepik.com/foto-gratis/rebanada-pizza-crujiente-carne-queso_140725-6974.jpg?t=st=1730509766~exp=1730513366~hmac=6b6167f08e82edd0845164c8fe3a11d2f3d78e2bd83f73225a4a5c043a3885be&w=740"
+    },
+    {
+      "precio": 100,
+      "id": 3,
+      "title": "Agua",
+      "thumbnailUrl": "https://img.freepik.com/foto-gratis/botella-aislada-agua-centimetro-azul_23-2148728686.jpg?t=st=1730509844~exp=1730513444~hmac=d8029d098fc15e008e70c7fa747309a234c0ae1817aeb7f05068d577bd559faf&w=740"
+    },
+    {
+      "precio": 50,
+      "id": 4,
+      "title": "Sandía",
+      "thumbnailUrl": "https://img.freepik.com/fotos-premium/modelos-fotorrealistas-detallados-costuras-sandias_1066386-948.jpg?w=740"
+    },
+    {
+      "precio": 10,
+      "id": 5,
+      "title": "Mango",
+      "thumbnailUrl": "https://img.freepik.com/foto-gratis/naturaleza-muerta-mango_23-2151542166.jpg?t=st=1730510670~exp=1730514270~hmac=4ed7d506750b289c623a0637236e3b54c9d85e3193ae050d0470640c67ba1a64&w=740"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Chela",
+      "thumbnailUrl": "https://img.freepik.com/foto-gratis/bodegon-elementos-elaboracion-cerveza_23-2150321467.jpg?t=st=1730510741~exp=1730514341~hmac=6d8261dbdd4072237a8f95a9c7fe830f84c19ebd9e425aef3f19add602bc3fa1&w=740"
+    }
+  ]
